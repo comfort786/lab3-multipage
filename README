@@ -1,0 +1,38 @@
+Lab 3: CSS3 & Responsive Web Design
+
+Group Members
+1. Comfort Chapa
+2. Mambwe Luke Chilebela
+
+Page Descriptions
+
+1. Home Page (index.html)
+   The Home page features a hero banner with welcome text and a navigation bar styled using Flexbox. The layout is responsive, with Flexbox used to arrange the content and sidebar sections side by side for a clean, modern design.
+
+2. Services Page (services.html)
+   The Services page displays service cards arranged in a responsive grid layout using CSS Grid. Each card includes a heading, description, and image, with hover effects and consistent styling across the page.
+
+3. Contact Page (contact.html)
+   The Contact page includes a styled HTML5 form with fields for name, email, subject, and message. The form is responsive, with input validation and subtle animations on button hover and field focus for a smooth user experience.
+
+Summary of Features Used
+
+1. CSS Selectors
+   Various CSS selectors (element, class, and ID) were used to style page components, including the navigation bar, service cards, and form elements.
+
+2. Flexbox
+   Flexbox was used for the layout of the navigation bar and sections on the Home page, allowing for a responsive, flexible design.
+
+3. CSS Grid
+   CSS Grid was used to display service cards in a 2x2 grid on the Services page, allowing for an adaptive and neat layout.
+
+4. Media Queries
+   Media queries were used for responsive design, with breakpoints set for 1024px, 768px, and 480px to ensure the pages adapt to different screen sizes.
+
+5. Animations
+   CSS animations were applied to buttons and form fields for subtle hover effects and smooth transitions, enhancing the interactivity of the page.
+
+6. Transitions
+   Transitions were added to form fields and buttons to provide smooth visual effects when interacting with these elements, improving the user experience.
+
+
